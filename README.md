@@ -60,8 +60,8 @@
 ### 1. Clone the repo
 
 ```bash
-git clone 
-cd 
+git clone https://github.com/realshak7781/My-Travel-Book.git
+cd app
 ```
 
 ### 2. Install dependencies
