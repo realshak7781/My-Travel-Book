@@ -1,36 +1,105 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🃏 Cards Shuffle
 
-## Getting Started
 
-First, run the development server:
+  <p>An interactive scroll component built with Next.js 15, Framer Motion, and animated card transitions using Tailwind CSS & Lenis</p>
+  <p><a href="/" target="_blank" rel="noopener noreferrer"><strong>→ Live Demo on Vercel</strong></a></p>
+
+  <div>
+    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+    <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  </div>
+</div>
+
+---
+
+## ✨ Features
+
+-   🔄 **Animated Card Stack**
+
+    -   Scroll-based animations with custom scaling and transform logic.
+    -   Parallax image zoom on scroll using Framer Motion.
+
+-   🌀 **Smooth Scroll Integration**
+
+    -   Powered by `@studio-freight/lenis` for buttery smooth UX.
+    -   Scroll-driven animations tightly synced with page position.
+
+-   ⚡ **Performance-Oriented**
+
+    -   Next.js 15 with Turbopack for fast builds and HMR.
+    -   Lightweight and modular component design.
+
+-   🎨 **Responsive & Clean UI**
+
+    -   Tailwind-first layout, mobile-friendly out of the box.
+    -   Easy to extend and customize with utility classes.
+
+-   🧠 **Fully Typed Setup**
+    -   Strong TypeScript types across components and animations.
+    -   Ensures maintainability and scalability.
+
+---
+
+## 🔧 Tech Stack
+
+-   **Next.js 15** with Turbopack
+-   **React 19**
+-   **TypeScript**
+-   **Framer Motion** for animation
+-   **Tailwind CSS** for styling
+-   **Lenis** for smooth scroll
+-   **ESLint** + **Prettier** for linting and formatting
+
+---
+
+## 🚀 Getting Started
+
+### 1. Clone the repo
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+git clone 
+cd 
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### 2. Install dependencies
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+```bash
+yarn install
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+### 3. Start the dev server
 
-## Learn More
+```bash
+yarn dev
+```
 
-To learn more about Next.js, take a look at the following resources:
+### 4. Build for production
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+```bash
+yarn build
+```
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+### 5. Launch production server
 
-## Deploy on Vercel
+```bash
+yarn start
+```
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+---
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## 📚 Resources
+
+-   [Next.js Documentation](https://nextjs.org/docs)
+-   [React 19 Release Notes](https://reactjs.org/blog/2024/03/20/react-v19.html)
+-   [Framer Motion Docs](https://www.framer.com/motion/)
+-   [Tailwind CSS Docs](https://tailwindcss.com/docs)
+-   [Lenis Smooth Scroll](https://github.com/studio-freight/lenis)
+
+---
+
+## 🧑‍💻 Author
+
+Made by [Sharique Akhtar](https://github.com/realshak7781)
