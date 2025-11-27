@@ -2,7 +2,7 @@
 
 
   <p>An interactive scroll component built with Next.js 15, Framer Motion, and animated card transitions using Tailwind CSS & Lenis</p>
-  <p><a href="/" target="_blank" rel="noopener noreferrer"><strong>→ Live Demo on Vercel</strong></a></p>
+  <p><a href="https://my-travel-book-one.vercel.app/" target="_blank" rel="noopener noreferrer"><strong>→ Live Demo on Vercel</strong></a></p>
 
   <div>
     <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
